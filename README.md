@@ -5,7 +5,7 @@
 <!-- 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me? [Visit my website](https://lsyk4.com/)
 
-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O11DM19R)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O11DM19R)
 
 <!---
 lsyk4/lsyk4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
